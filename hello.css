@@ -3,6 +3,10 @@ h1 {
   text-align: center;
   color: orchid
 }
+h2 {
+  text-align: right;
+
+}
 body{
   background-color:#e0cee0
 }
