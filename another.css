@@ -1,3 +1,13 @@
 body {
-    background-color: cornflowerblue;
+    background-color: rgb(99, 151, 247);
+}
+
+i:hover{
+    color: blueviolet;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

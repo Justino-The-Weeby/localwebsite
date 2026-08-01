@@ -1,7 +1,13 @@
 h1 {
-    text-align: center;
     color: antiquewhite;
+    font-size: 24px;
+    text-align: center;
 }
 body {
     background-color: cornflowerblue;
+}
+
+.center{
+    text-align: center;
+    font-size: 16px;
 }

@@ -1,21 +1,27 @@
+body{
+  background-color:#e0cee0
+}
 h1 {
   /* This is the style sheet for the header */
   text-align: center;
   color: orchid
 }
-h2 {
+h2{
   text-align: right;
-
 }
-body{
-  background-color:#e0cee0
+.link:hover{
+  color: aquamarine;
+}
+.img_center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  text-align: center;
 }
 
-div.box{
-padding: 20px;
-margin: 10px 20px 10px 20px;
-border: 3px solid black;
-
-box-sizing: content-box;
-max-width: 90%;
-height: 90%;}
+.right
+{
+  text-align: right;
+}
