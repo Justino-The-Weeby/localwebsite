@@ -1,6 +1,13 @@
 body {
     background-color: rgb(99, 151, 247);
 }
-img{
-    
+
+i:hover{
+    color: blueviolet;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }

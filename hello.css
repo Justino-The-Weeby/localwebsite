@@ -9,3 +9,19 @@ h1 {
 h2{
   text-align: right;
 }
+.link:hover{
+  color: aquamarine;
+}
+.img_center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  text-align: center;
+}
+
+.right
+{
+  text-align: right;
+}
